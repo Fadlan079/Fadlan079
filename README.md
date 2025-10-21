@@ -37,8 +37,8 @@
 
 ## 📊 GitHub Stats  
 
-![Fadlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadlanfirdaus&show_icons=true&theme=github_dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadlanfirdaus&layout=compact&theme=github_dark&hide_border=true)
+![Fadlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fadlan079&show_icons=true&theme=github_dark&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadlan079&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
