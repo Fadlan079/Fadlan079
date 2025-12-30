@@ -32,7 +32,6 @@ I focus on simplicity, performance, and real-world usability.
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fadlan079&layout=compact&theme=algolia"/>
 </a>
 </p>
----
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Fadlan079&theme=onestar&title=MultiLanguage,Stars,Commits,Repositories,Followers,Experience,PullRequest)
