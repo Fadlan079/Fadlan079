@@ -17,7 +17,7 @@ I focus on simplicity, performance, and real-world usability.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:fadlanfirdaus220@gmail.com)
 
 ---
-## About Me
+`## About Me
 - Full Stack Web Developer
 - Strong interest in clean architecture & system flow
 - Comfortable working with backend logic & frontend UI
@@ -39,7 +39,7 @@ I focus on simplicity, performance, and real-world usability.
 - VS Code
 
 ---
-
+`
 ## Featured Projects
 | Project | Description | Tech |
 |------|------------|------|
