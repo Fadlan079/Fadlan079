@@ -51,14 +51,16 @@ I focus on simplicity, performance, and real-world usability.
 
 ## GitHub Stats
 <p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fadlan079&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadlan079&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170em"
+  src="https://github-readme-stats.vercel.app/api?username=Fadlan079&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
+  <img height="170em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadlan079&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
 
 ## GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Fadlan079&theme=onestar&title=Commits,Repositories,Stars,Followers,Experience"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadlan079&theme=github-compact&radius=16&hide_border=true"/>
 
 ---
 
