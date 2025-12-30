@@ -11,14 +11,14 @@ I focus on simplicity, performance, and real-world usability.
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fadlan.510)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fadlanfirdaus)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:fadlanfirdaus220@gmail.com)
 
 ---
 
-## 🧠 About Me
+## About Me
 - Full Stack Web Developer
 - Strong interest in clean architecture & system flow
 - Comfortable working with backend logic & frontend UI
@@ -26,7 +26,7 @@ I focus on simplicity, performance, and real-world usability.
 
 ---
 
-## 🛠 Tech Stack (Focused)
+## Tech Stack (Focused)
 **Frontend**
 - HTML, CSS, JavaScript
 - Tailwind CSS
@@ -41,7 +41,7 @@ I focus on simplicity, performance, and real-world usability.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 | Project | Description | Tech |
 |------|------------|------|
 | **Sistem Manajemen Parkir** | Simple parking management system for managing vehicle data, tickets, and parking transactions. | PHP, MySQL, Tailwind |
@@ -49,7 +49,7 @@ I focus on simplicity, performance, and real-world usability.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="left">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fadlan079&show_icons=true&theme=github_dark&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadlan079&layout=compact&theme=github_dark&hide_border=true"/>
@@ -57,12 +57,12 @@ I focus on simplicity, performance, and real-world usability.
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Fadlan079&theme=onestar&title=Commits,Repositories,Stars,Followers,Experience"/>
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 <a href="#">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadlan079&theme=github-compact&radius=16"/>
 </a>
