@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Fadlan079&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h1 align="left">Hi there! I'm Fadlan</h1>
+<h1 align="left">Hi there! I'm Fadlan </h1>
 
 <p align="left">
 Full Stack Developer who enjoys building clean, scalable, and maintainable web applications.
@@ -60,14 +60,16 @@ I focus on simplicity, performance, and real-world usability.
 ---
 
 ## GitHub Trophies
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadlan079&theme=github-compact&radius=16&hide_border=true"/>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fadlan079&theme=onestar&no-frame=true&no-bg=true&title=Commits,Repositories,Stars,Followers,Experience"/>
+</p>
 
 ---
 
 ## Contribution Graph
-<a href="#">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadlan079&theme=github-compact&radius=16"/>
-</a>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadlan079&theme=github-compact&radius=16&hide_border=true"/>
+</p>
 
 ---
 
