@@ -51,18 +51,15 @@ I focus on simplicity, performance, and real-world usability.
 
 ## GitHub Stats
 <p align="left">
-  <img height="170em"
-  src="https://github-readme-stats.vercel.app/api?username=Fadlan079&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
-  <img height="170em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadlan079&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
+<a href="https://github.com/Fadlan079">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fadlan079&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamachiii&layout=compact&theme=algolia"/>
+</a>
 </p>
-
 ---
 
 ## GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fadlan079&theme=onestar&no-frame=true&no-bg=true&title=Commits,Repositories,Stars,Followers,Experience"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Fadlan079&theme=onestar&title=MultiLanguage,Stars,Commits,Repositories,Followers,Experience,PullRequest)
 
 ---
 
