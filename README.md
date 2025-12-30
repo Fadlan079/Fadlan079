@@ -18,29 +18,6 @@ I focus on simplicity, performance, and real-world usability.
 
 ---
 
-## About Me
-- Full Stack Web Developer
-- Strong interest in clean architecture & system flow
-- Comfortable working with backend logic & frontend UI
-- Currently learning **DevOps & deployment workflow**
-
----
-
-## Tech Stack (Focused)
-**Frontend**
-- HTML, CSS, JavaScript
-- Tailwind CSS
-
-**Backend**
-- PHP (Native & Laravel)
-- MySQL
-
-**Tools**
-- Git & GitHub
-- VS Code
-
----
-
 ## Featured Projects
 | Project | Description | Tech |
 |------|------------|------|
