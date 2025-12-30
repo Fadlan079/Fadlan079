@@ -1,83 +1,49 @@
-<h1 align="center">Hi, I'm Fadlan Firdaus 👋</h1>
-<p align="center">
-  Full Stack Developer • Clean Architecture • Scalable Web Apps
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatkhur03&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+
+# Hi there! I'm Fadlan
+
+I'm an Information Systems student passionate about Front-End Development, turning ideas into interactive and user-friendly experiences with clean and efficient code. Always exploring new web technologies, I love building innovative projects and crafting seamless user experiences. Check out my repos and let's create something awesome together!😎🔥
+ 
+<!-- ## 🌐 Socials: -->
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/story.thur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatkhurrhn/)  -->
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/story.thur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatkhurrhn) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@fatkhurrhnn)
+
+[![image](https://github.com/fatkhurrhn/fatkhurrhn/blob/main/dino.gif)](https://fatkhurrhn.vercel.app/)
+
+<p align="left">
+<a href="https://github.com/fatkhurrhn">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fatkhurrhn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamachiii&layout=compact&theme=algolia"/>
+</a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/fadlanfirdaus">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/fadlan.510">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:fadlanfirdaus@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+ ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fatkhurrhn&theme=onestar&title=MultiLanguage,Stars,Commits,Repositories,Followers,Experience,PullRequest)
 
----
+<!-- ## 💻 Technical Skills:
 
-## About Me
+- **Frontend Development:** HTML/CSS3, JavaScript, Bootstrap :v
+- **Tools and Design:** VSCode, GitHub and Figma -->
+<!-- snake graph -->
+<!-- <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+<h4> _generated with [Platane/snk](https://platane.me/snk/)_</h4>
+</div> -->
+<br>
+<div align="left">
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatkhurrhn&radius=16&theme=react&area=true&order=5" height="auto" alt="by fatkhurhhn"/> -->
+  <a href="https://fatkhurrhn.vercel.app/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatkhurrhn&theme=github-compact&radius=16" height="auto" alt="by fatkhurhhn"/>
+</a>
 
-I'm a **Full Stack Developer** who enjoys building web applications that are **clean, maintainable, and scalable**.  
-I focus on writing understandable code, solid database design, and user-friendly interfaces.
 
-Currently exploring:
-- **DevOps basics**
-- **Deployment & cloud workflow**
-- **Improving system architecture**
 
----
 
-## Tech Stack (Focused)
 
-**Frontend**
-- HTML, CSS, JavaScript
-- React
-- Tailwind CSS
 
-**Backend**
-- PHP (Native & Laravel)
-- Node.js
-- MySQL
 
-**Tools**
-- Git & GitHub
-- VS Code
-- Postman
-- Figma
-
----
-
-## Selected Projects
-
-| Project | Description | Tech |
-|-------|-------------|------|
-| **Kelola Tugas** | Simple task management system with authentication and CRUD features. | PHP, MySQL, Tailwind |
-| **Cylc Rent Car** | Car rental system with admin & user dashboard, charts, and reporting. | Laravel, MySQL, Chart.js |
-
-> More projects available on my repositories.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fadlan079&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadlan079&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
-
----
-
-## What I Value
-
-- Clean & readable code
-- Simple but solid architecture
-- Continuous learning
-- Collaboration & feedback
-
----
-
-<p align="center">
-  <i>"Code with clarity, build with purpose."</i>
-</p>
