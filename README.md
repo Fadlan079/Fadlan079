@@ -1,9 +1,9 @@
 <h1 align="center">Hi there!, I'm Fadlan</h1>
 <h3 align="center">Full Stack Developer who enjoys building clean, scalable, and maintainable web applications. I focus on simplicity, performance, and real-world usability.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fadlan0799&label=Profile%20views&color=0e75b6&style=flat" alt="Fadlan0799" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fadlan079&label=Profile%20views&color=0e75b6&style=flat" alt="Fadlan079" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fadlan0799" alt="Fadlan0799" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fadlan079" alt="Fadlan079" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,8 +25,8 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fadlan0799&show_icons=true&locale=en&layout=compact" alt="Fadlan0799" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fadlan079&show_icons=true&locale=en&layout=compact" alt="Fadlan079" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fadlan0799&show_icons=true&locale=en" alt="Fadlan0799" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fadlan079&show_icons=true&locale=en" alt="Fadlan079" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fadlan0799&" alt="Fadlan0799" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fadlan079&" alt="Fadlan079" /></p>
