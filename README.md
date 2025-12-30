@@ -17,13 +17,6 @@ I focus on simplicity, performance, and real-world usability.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:fadlanfirdaus220@gmail.com)
 
 ---
-## Featured Projects
-| Project | Description | Tech |
-|------|------------|------|
-| **Sistem Manajemen Parkir** | Simple parking management system for managing vehicle data, tickets, and parking transactions. | PHP, MySQL, Tailwind |
-| **Cylc Rent Car** | Web-based car rental system that manages vehicles, rentals, users, and transactions with role-based dashboards. | PHP, MySQL, Tailwind |
-
----
 
 ## GitHub Stats
 <p align="left">
@@ -39,6 +32,14 @@ I focus on simplicity, performance, and real-world usability.
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadlan079&theme=github-compact&radius=16&hide_border=true"/>
 </p>
+
+---
+
+## Featured Projects
+| Project | Description | Tech |
+|------|------------|------|
+| **Sistem Manajemen Parkir** | Simple parking management system for managing vehicle data, tickets, and parking transactions. | PHP, MySQL, Tailwind |
+| **Cylc Rent Car** | Web-based car rental system that manages vehicles, rentals, users, and transactions with role-based dashboards. | PHP, MySQL, Tailwind |
 
 ---
 
