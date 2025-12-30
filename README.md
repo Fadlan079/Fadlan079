@@ -53,7 +53,7 @@ I focus on simplicity, performance, and real-world usability.
 <p align="left">
 <a href="https://github.com/Fadlan079">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fadlan079&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamachiii&layout=compact&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fadlan079&layout=compact&theme=algolia"/>
 </a>
 </p>
 ---
