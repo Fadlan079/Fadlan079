@@ -33,10 +33,6 @@ I focus on simplicity, performance, and real-world usability.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadlan079&theme=github-compact&radius=16&hide_border=true"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadlan079&theme=github&hide_border=true"/>
-</p>
-
 ---
 
 ## Featured Projects
