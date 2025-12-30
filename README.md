@@ -33,9 +33,6 @@ I focus on simplicity, performance, and real-world usability.
 </a>
 </p>
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Fadlan079&theme=onestar&title=MultiLanguage,Stars,Commits,Repositories,Followers,Experience,PullRequest)
-
 ---
 
 ## Contribution Graph
