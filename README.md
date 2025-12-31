@@ -46,5 +46,3 @@ I focus on simplicity, performance, and real-world usability.
 <p align="center">
   <i>"Code with clarity, build with purpose."</i>
 </p>
-test pull shark
-
