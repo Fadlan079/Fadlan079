@@ -15,7 +15,7 @@ Full Stack Developer who enjoys building clean, scalable, and maintainable web a
 <br />
 
 ### [ ESTABLISH_CONNECTION ]
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#ef4444)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fadlanfirdaus)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#ef4444)](https://fadlan.f3bytes.my.id/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fadlanfirdaus)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fadlan.510)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadlanfirdaus220@gmail.com)
 
@@ -30,11 +30,11 @@ Full Stack Developer who enjoys building clean, scalable, and maintainable web a
 
 ---
 
-### 📊 [ SYSTEM_METRICS ]
+### [ SYSTEM_METRICS ]
 <p align="left">
   <a href="https://github.com/Fadlan079">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Fadlan079&show_icons=true&bg_color=0d1117&title_color=ef4444&text_color=a1a1aa&icon_color=ef4444&border_color=21262d&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadlan079&layout=compact&bg_color=0d1117&title_color=ef4444&text_color=a1a1aa&border_color=21262d&hide_border=true" />
+    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fadlan079&show_icons=true&bg_color=0d1117&title_color=ef4444&text_color=a1a1aa&icon_color=ef4444&border_color=21262d&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fadlan079&layout=compact&bg_color=0d1117&title_color=ef4444&text_color=a1a1aa&border_color=21262d&hide_border=true" />
   </a>
 </p>
 
