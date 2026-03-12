@@ -1,48 +1,59 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Fadlan079&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Fadlan079&label=SYS.VIEWS&color=ef4444&style=for-the-badge" alt="profile views" />
+</div>
 
-<h1 align="left">Hi there! I'm Fadlan </h1>
+<br />
 
-<p align="left">
-Full Stack Developer who enjoys building clean, scalable, and maintainable web applications.
-I focus on simplicity, performance, and real-world usability.
-</p>
+<div align="left">
+  <a href="https://github.com/Fadlan079">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=ef4444&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Fadlan.;Full+Stack+Developer.;System+Architect.;Code+with+clarity." alt="Typing Greeting" />
+  </a>
+</div>
 
----
+Full Stack Developer who enjoys building clean, scalable, and maintainable web applications. I bridge the gap between complex backend systems and intuitive user interfaces. **No magic, just well-structured code.**
 
-### Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fadlan.510)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fadlanfirdaus)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:fadlanfirdaus220@gmail.com)
+<br />
 
----
-
-## GitHub Stats
-<p align="left">
-<a href="https://github.com/Fadlan079">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fadlan079&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fadlan079&layout=compact&theme=algolia"/>
-</a>
-</p>
+### [ ESTABLISH_CONNECTION ]
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#ef4444)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fadlanfirdaus)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fadlan.510)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadlanfirdaus220@gmail.com)
 
 ---
 
-## Contribution Graph
+### [ TECH_ARSENAL ]
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadlan079&theme=github-compact&radius=16&hide_border=true"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,tailwind,mysql,bootstrap,git,github,vscode&perline=10" />
+  </a>
 </p>
 
 ---
 
-## Featured Projects
-| Project | Description | Tech |
-|------|------------|------|
-| **Sistem Manajemen Parkir** | Simple parking management system for managing vehicle data, tickets, and parking transactions. | PHP, MySQL, Tailwind |
-| **Cylc Rent Car** | Web-based car rental system that manages vehicles, rentals, users, and transactions with role-based dashboards. | PHP, MySQL, Tailwind |
+### 📊 [ SYSTEM_METRICS ]
+<p align="left">
+  <a href="https://github.com/Fadlan079">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Fadlan079&show_icons=true&bg_color=0d1117&title_color=ef4444&text_color=a1a1aa&icon_color=ef4444&border_color=21262d&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadlan079&layout=compact&bg_color=0d1117&title_color=ef4444&text_color=a1a1aa&border_color=21262d&hide_border=true" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadlan079&bg_color=0d1117&color=ef4444&line=ef4444&point=ffffff&area=true&hide_border=true&title_color=ef4444" alt="Contribution Graph" />
+</p>
 
 ---
+
+### [ EXECUTION_LOGS ] // Featured Works
+
+> **Sistem Manajemen Parkir** > Simple parking management system for managing vehicle data, tickets, and parking transactions.  
+> `PHP` `MySQL` `TailwindCSS`
+
+> **Cylc Rent Car** > Web-based car rental system that manages vehicles, rentals, users, and transactions with role-based dashboards.  
+> `PHP` `MySQL` `TailwindCSS`
+
+<br />
 
 <p align="center">
-  <i>"Code with clarity, build with purpose."</i>
+  <code style="color: #ef4444;">"Functionality over complexity. Logic before aesthetics."</code>
 </p>
