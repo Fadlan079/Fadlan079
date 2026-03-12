@@ -21,8 +21,6 @@ Full Stack Developer who enjoys building clean, scalable, and maintainable web a
 
 ---
 
----
-
 ### [ SYSTEM_METRICS ]
 <p align="left">
   <a href="https://github.com/Fadlan079">
