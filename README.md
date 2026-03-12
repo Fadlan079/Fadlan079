@@ -21,13 +21,6 @@ Full Stack Developer who enjoys building clean, scalable, and maintainable web a
 
 ---
 
-### [ TECH_ARSENAL ]
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,tailwind,mysql,bootstrap,git,github,vscode&perline=10" />
-  </a>
-</p>
-
 ---
 
 ### [ SYSTEM_METRICS ]
