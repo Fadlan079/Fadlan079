@@ -6,11 +6,11 @@
 
 <div align="left">
   <a href="https://github.com/Fadlan079">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=ef4444&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Fadlan.;Full+Stack+Developer.;System+Architect.;Code+with+clarity." alt="Typing Greeting" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=ef4444&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Fadlan.;Web+development+enthusiast.;Learning+backend+&+Frontend;Writing+maintainable+code." alt="Typing Greeting" />
   </a>
 </div>
 
-Full Stack Developer who enjoys building clean, scalable, and maintainable web applications. I bridge the gap between complex backend systems and intuitive user interfaces. **No magic, just well-structured code.**
+Tertarik mengembangkan web ke arah full stack dengan fokus pada kode yang rapi dan terstruktur.
 
 <br />
 
