@@ -6,7 +6,7 @@
 
 <div align="left">
   <a href="https://github.com/Fadlan079">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=ef4444&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Fadlan.;Web+development+enthusiast.;Learning+backend+&+Frontend;Writing+maintainable+code." alt="Typing Greeting" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=ef4444&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Fadlan.;Web+development+enthusiast.;Learning+Backend+Frontend.;Writing+maintainable+code." alt="Typing Greeting" />
   </a>
 </div>
 
