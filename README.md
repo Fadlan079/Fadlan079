@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Fadlan079&label=SYS.VIEWS&color=ef4444&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Fadlan079&label=Jumlah Dilihat&color=ef4444&style=for-the-badge" alt="profile views" />
 </div>
 
 <br />
@@ -34,14 +34,13 @@ Tertarik mengembangkan web ke arah full stack dengan fokus pada kode yang rapi d
 
 ### Karya Unggulan
 
-> **Sistem Manajemen Parkir** > Simple parking management system for managing vehicle data, tickets, and parking transactions.  
+> **Sistem Manajemen Parkir** > Sistem sederhana untuk mengelola data kendaraan, tiket, dan transaksi parkir.  
+> `PHP` `MySQL` `TailwindCSS` `Tesseract OCR` `OpenCV`
+
+> **Platform Rental Mobil** > Sistem rental mobil berbasis web untuk mengelola kendaraan, penyewaan, pengguna, dan transaksi dengan dashboard berbasis peran.  
 > `PHP` `MySQL` `TailwindCSS`
 
-> **Cylc Rent Car** > Web-based car rental system that manages vehicles, rentals, users, and transactions with role-based dashboards.  
-> `PHP` `MySQL` `TailwindCSS`
+> **Personal Portfolio Website** > Website portofolio untuk menampilkan profil dan proyek dengan desain yang bersih dan interaktif.  
+> `Laravel` `MySQL` `TailwindCSS` `GSAP`
 
 <br />
-
-<p align="center">
-  <code style="color: #ef4444;">"Functionality over complexity. Logic before aesthetics."</code>
-</p>
