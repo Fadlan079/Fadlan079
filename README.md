@@ -27,7 +27,9 @@ Tertarik mengembangkan web ke arah full stack dengan fokus pada kode yang rapi d
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Fadlan079&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=a1a1aa&currStreakNum=ffffff&sideNums=ffffff&dates=a1a1aa&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fadlan079&show_icons=true&bg_color=0d1117&title_color=ef4444&text_color=a1a1aa&icon_color=ef4444&border_color=21262d&include_all_commits=true&count_private=true&hide_border=true" />
+  
+  <img height="165em" src="https://streak-stats.demolab.com?user=Fadlan079&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=a1a1aa&currStreakNum=ffffff&sideNums=ffffff&dates=a1a1aa&hide_border=true" />
 </p>
 
 <p align="left">
